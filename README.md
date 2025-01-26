@@ -26,7 +26,7 @@ This should place a copy of MULE files in a folder called **S25-Kit**. Make sure
 
 At the beginning of every class meeting, open GitHub Desktop and make sure that it says **S25-Kit** under **Current Repository** in the upper-left corner.
 
-If you see a column just below that says "
+Just below that, look at the column that says **Changes**. If there are any changed files, go to **Branch** in the menu bar and select **Discard All Changes...**.
 
 ### Create a "Safe" Folder
 
