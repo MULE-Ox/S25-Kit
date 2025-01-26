@@ -40,11 +40,11 @@ Cycling 74's **Max** is a critical sound and visual application for MULE. Downlo
 
 https://cycling74.com/downloads
 
-You do not need a license to run files in Max for MULE. If you already have Max installed, make sure that it is updated to version **9.0.4** (or higher).
+You do not need a license to run files in **Max** for MULE. If you already have **Max** installed, make sure that it is updated to version **9.0.4** (or higher).
 
 ### File Preferences
 
-After installing Max, go to **Options > File Preferences...** in the menu bar. In the window that opens, click the **+** icon in the lower-left corner. Click the **choose** button in the new row that appears, then find the **S25-Kit** folder that you cloned from GitHub and click **Open**. Make sure that **Subfolders** is checked for that row.
+After installing **Max**, go to **Options > File Preferences...** in the menu bar. In the window that opens, click the **+** icon in the lower-left corner. Click the **choose** button in the new row that appears, then find the **S25-Kit** folder that you cloned from GitHub and click **Open**. Make sure that **Subfolders** is checked for that row.
 
 <img src="images/max-file-preferences.png" alt="Max File Preferences" width="500">
 
@@ -97,7 +97,7 @@ In both cases:
 
 Additionally, the **PHANTOM POWER** and **INSTRUMENT** settings on the **Mackie** should always be off.
 
-These settings were chosed by roughly calibrating the volume of a test signal. We will revisit these settings if needed throughout the semester.
+These settings were chosed by roughly calibrating the volume of a test signal. We will revisit these settings if needed throughout the semester. If you ever find that your audio is too loud, use the **MONITOR** knob on the **MiniFuse** to reduce volume, rather than the speaker settings.
 
 <img src="images/roland-settings.jpeg" alt="Roland Settings" width="500">
 
