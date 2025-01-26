@@ -26,21 +26,21 @@ This will place a collection of files in a folder called **S25-Kit** in **Docume
 
 At the beginning of _every_ class meeting, open **GitHub Desktop** and make sure that it says **S25-Kit** under **Current Repository** in the upper-left corner.
 
-Just below that, look at the column that says **Changes**. If there are any changed files, go to **Branch** in the menu bar and select **Discard All Changes...**.
+Just below that, look at the column that says **Changes**. If there are any changed files, go to the **Branch** menu in the menu bar and select **Discard All Changes...**.
 
-Once it says "0 changed files" in the **Changes** column, look for a button in the upper-right corner that says either **Fetch origin**  or **Pull origin**. Click this button until it says "Last fetched just now" with no further updates.
+Once it says "0 changed files" in the **Changes** column, look for a button in the upper-right corner that says either **Fetch origin**  or **Pull origin** (depending on which state it is currently in). Click this button until it says "Last fetched just now" with no further updates.
 
 ### Create a "Safe" Folder
 
-Occasionally, we will need individual MULE members to be able to create and change files that exist only in their own **S25-Kit** folder. To do so, simply create a new folder named **storage** inside of **S25-Kit**. **GitHub Desktop** knows to ignore the contents of this folder when discarding files and syncing updates.
+Occasionally, we will need individual MULE members to be able to create and change files that exist only in their own **S25-Kit** folder. To do so, simply create a new folder named **storage** inside of your **S25-Kit** folder. **GitHub Desktop** knows to ignore the contents of this folder when discarding files and syncing updates.
 
 ## Max
 
-Cycling 74's **Max** is a critical sound and visual application for MULE. Download and install the newest version here:
+**Max** by Cycling '74 is a critical sound and visual application for MULE. Download and install the newest version here:
 
 https://cycling74.com/downloads
 
-You do not need a license to run files in **Max** for MULE. If you already have **Max** installed, make sure that it is updated to version **9.0.4** (or higher).
+You do not need a license to run files in **Max** for MULE. If you already have **Max** installed, make sure that it is updated to version **9.0.4** or higher.
 
 ### File Preferences
 
@@ -54,7 +54,7 @@ If you have been in MULE in the past, please remove all folders from previous se
 
 **Max** includes a **Package Manager** to install additional packages that add functionality to the base application. One that we use frequently in MULE to synchronize beats among players is **Link**.
 
-To install **Link**, go to **File > Show Package Manager**. Then, search for **Link** by Cycling '74 and click the **Install** button. You do not need to launch **Link** after installing - it will automatically be available where needed in the **Max** patches that we build.
+To install **Link**, go to **File > Show Package Manager**, then search for **Link** by Cycling '74 and click the **Install** button. You do not need to launch **Link** after installing - it will automatically be available where needed in the **Max** patches that we build.
 
 <img src="images/link-max-package-manager.png" alt="Link in Max Package Manager" width="500">
 
@@ -97,7 +97,7 @@ In both cases:
 
 Additionally, the **PHANTOM POWER** and **INSTRUMENT** settings on the **Mackie** should always be off.
 
-These settings were chosed by roughly calibrating the volume of a test signal. We will revisit these settings if needed throughout the semester. If you ever find that your audio is too loud, use the **MONITOR** knob on the **MiniFuse** to reduce volume, rather than the speaker settings.
+These settings were chosen by roughly calibrating the volume of a test signal. We will revisit these settings if needed throughout the semester. If you ever find that your audio is too loud, use the **MONITOR** knob on the **MiniFuse** to reduce volume, rather than the speaker settings.
 
 <img src="images/roland-settings.jpeg" alt="Roland Settings" width="500">
 
@@ -111,6 +111,6 @@ There are three room configuration items that I ask you to note and help maintai
 
 - If you are using a **Roland** speaker along the right (north) wall, some of them have been raised a bit to ensure that the cables on the back are not smashed against the plastic wire conduit.
 - If you are using a **Mackie** speaker along the left (south) wall, the audio cables should be unplugged from the speaker inputs and loosely hung on the X-stand _at the end of every class_. This is to ensure a clear path to the back of the room.
-- If you are using one of the two stations at the back of the room near the recording desk, there isn't quite enough room to leave the speakers out all the time. You will need to move your speakers a few feet away from your stand and plug in their power cables at the start of every class. There is a power strip stored in the bottom of the mixer rack for this purpose. Please make sure to return both the power strip and speakers to their stored locations _at the end of every class_.
+- If you are using one of the two stations at the back of the room near the recording desk, there isn't quite enough room to leave the speakers out all the time. You will need to move your speakers a few feet away from your stand and plug in their power cables at the start of every class. A power strip is stored at the bottom of the mixer rack for this purpose. Please make sure to return both the power strip and speakers to their stored locations _at the end of every class_.
 
 <img src="images/cpa152.jpeg" alt="CPA152" width="500">
