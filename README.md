@@ -58,7 +58,7 @@ To install **Link**, go to **File > Show Package Manager**. Then, search for **L
 
 <img src="images/link-max-package-manager.png" alt="Link in Max Package Manager" width="500">
 
-## MULE1 and MULE2 Networks
+## MULE Networks
 
 MULE maintains its own wifi routers to improve network communication between group members. **MULE1** is the default router that is always active in CPA152. **MULE2** is a portable router that we use when needed in other rooms (e.g. when rehearsing small groups in other parts of the building).
 
