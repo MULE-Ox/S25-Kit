@@ -58,6 +58,13 @@ To install **Link**, go to **File > Show Package Manager**, then search for **Li
 
 <img src="images/link-max-package-manager.png" alt="Link in Max Package Manager" width="500">
 
+## Other Software
+
+You may occasionally be asked to make "plain text" edits to files in your **storage** folder throughout the semester.
+
+- Mac users should open and save these files with the **TextEdit** application.
+- Windows users should open and save these files with the **Notepad** application.
+
 ## MULE Networks
 
 MULE maintains its own wifi routers to improve network communication between group members. **MULE1** is the default router that is always active in CPA152. **MULE2** is a portable router that we use when needed in other rooms (e.g. when rehearsing small groups in other parts of the building).
@@ -68,7 +75,7 @@ Both networks use the same password:
 moms-against-noise
 ```
 
-Make sure that you can connect to **MULE1** when you arrive for class. Additionally, Windows users may need to disable the Windows firewall for these networks (we will test this early in the semester).
+Make sure that you can connect to **MULE1** when you arrive for class. Additionally, Windows users may need to disable the firewall for these networks (we will test this early in the semester).
 
 ## Hardware
 
