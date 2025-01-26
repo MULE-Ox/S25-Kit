@@ -2,6 +2,7 @@
 
 This repository includes configuration instructions and files needed to perform Spring 2025 concert selections. It will be updated with new content throughout the semester as needed.
 
+a
 ## GitHub Desktop
 
 MULE uses **GitHub Desktop** to easily manage and share files. It helps to ensure that all members have the exact same versions of everything and prevents unwanted changes. Download and install GitHub Desktop here:
