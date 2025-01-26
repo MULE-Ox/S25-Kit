@@ -28,6 +28,8 @@ At the beginning of every class meeting, open GitHub Desktop and make sure that 
 
 Just below that, look at the column that says **Changes**. If there are any changed files, go to **Branch** in the menu bar and select **Discard All Changes...**.
 
+Once it says "0 changed files" in the **Changes** column, look for a button in the upper-right corner that says either **Fetch origin** 
+
 ### Create a "Safe" Folder
 
 Occasionally, we will need individual MULE members to be able to create and change files that exist only in their own **S25-Kit** folder. To do so, simply create a new folder named **storage** inside of **S25-Kit**. GitHub Desktop knows to ignore the contents of this folder when discarding files and syncing updates.
