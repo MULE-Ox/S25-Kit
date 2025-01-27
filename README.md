@@ -4,6 +4,8 @@ This repository includes configuration instructions and files needed to perform 
 
 ## GitHub Desktop
 
+POOP!
+
 MULE uses **GitHub Desktop** to manage and share files. It helps to ensure that all members have the exact same versions of everything and prevents unwanted changes. Download and install **GitHub Desktop** here:
 
 https://desktop.github.com/download/
@@ -28,7 +30,7 @@ At the beginning of _every_ class meeting, open **GitHub Desktop** and make sure
 
 Just below that, look at the column that says **Changes**. If there are any changed files, go to the **Branch** menu in the menu bar and select **Discard All Changes...**.
 
-Once it says "0 changed files" in the **Changes** column, look for a button in the upper-right corner that says either **Fetch origin**  or **Pull origin** (depending on which state it is currently in). Click this button until it says "Last fetched just now" with no further updates.
+Once it says "0 changed files" in the **Changes** column, look for a button in the upper-right corner that says either **Fetch origin** or **Pull origin** (depending on which state it is currently in). Click this button until it says "Last fetched just now" with no further updates.
 
 ### Create a "Safe" Folder
 
@@ -98,6 +100,7 @@ In use, the front panel of your **MiniFuse** should look something like the imag
 We have two different speaker models: the **Roland CM-30 CUBE** and **Mackie SRM150**. Check to make sure that your speaker's settings look like the images below.
 
 In both cases:
+
 - **Channel** and **MASTER/MAIN** levels are at 25% (9:00).
 - **HIGH**, **MID**, and **LOW** settings are at "Unity" (12:00).
 - All other inputs are turned all the way down.
