@@ -491,7 +491,7 @@
 
 			}
  ],
-		"originid" : "pat-125",
+		"originid" : "pat-12",
 		"parameters" : 		{
 			"obj-9" : [ "live.gain~", "volume", 0 ],
 			"parameterbanks" : 			{
