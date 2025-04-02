@@ -1,0 +1,13 @@
+{
+  "notes": {
+    "1": "System 1:\nSTARTING QUIETLY (DIMLY), WITH BELLS (gently).\nContinue into next system",
+    "2": "System 2:\nBARELY BRIGHTER, WITH BELLS (gently).\nFX slider - values low.\nRhythm jumper - subtle.\nFade sine tones at end.\nCrossfade bells into next system.",
+    "3": "System 3:\nMORPH from BELLS to SATURATION (fade in and out, staggered).\nFX slider - keep values low.\nContinue into next system.",
+    "4": "System 4:\nMORPH from SATURATION to RHYTHM JUMPER (sporadic, irregular rhythms).\nFX slider - values can be higher.\nNo Bells.\nContinue into next syste.",
+    "5": "System 5:\nMORPH from RHYTHM JUMPER to PITCH BEND.\nIntroduce larger pitch bends (button).\nFX slider - for bending pitch.\nNo Bells.\nContinue into next system.",
+    "6": "System 6:\nMORPH from PITCH BEND to BUBBLER.\nNon-bubbler sounds becoming quieter.\nNo Bells.\nContinue into next system.",
+    "7": "System 7: BUBBLER - gradually increase bubble size. Becoming dimmer (quieter high partials). Fade slowly, almost to silence, before restarting next system. No Bells",
+    "8": "System 1 (reprise):\nRESTART QUIETLY (DIMLY), WITH BELLS.\nFX slider - keep values low.\nRhythm jumper - be subtle if using.\nContinue into next system",
+    "9": "System 2 (reprise):\nGETTING DIMMER, FADING OUT, WITH BELLS.\nFX slider - keep values low.\nBells alone at very end."
+  }
+}
