@@ -1,2 +1,2 @@
-0, sample minrange maxrange autoscrubmode# grainsize duration;
-1, long1.mp3 0.3 0.5 2 100 1;
+0, sample minrange maxrange autoscrubmode# grainsize duration delaylevel reverblevel;
+1, long1.mp3 0.3 0.5 2 100 1 63 20;
