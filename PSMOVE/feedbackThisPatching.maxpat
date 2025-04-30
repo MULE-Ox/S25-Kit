@@ -1174,7 +1174,7 @@
 
 							}
  ],
-						"originid" : "pat-64"
+						"originid" : "pat-530"
 					}
 ,
 					"patching_rect" : [ 161.0, 1278.0, 93.0, 22.0 ],
@@ -1903,7 +1903,7 @@
 
 							}
  ],
-						"originid" : "pat-66"
+						"originid" : "pat-532"
 					}
 ,
 					"patching_rect" : [ 3389.0, 32.0, 775.0, 22.0 ],
@@ -2615,7 +2615,7 @@
 
 							}
  ],
-						"originid" : "pat-68"
+						"originid" : "pat-534"
 					}
 ,
 					"patching_rect" : [ 63.0, 1054.0, 185.0, 22.0 ],
@@ -2915,7 +2915,7 @@
 
 											}
  ],
-										"originid" : "pat-72"
+										"originid" : "pat-538"
 									}
 ,
 									"patching_rect" : [ 50.0, 207.471313000000009, 30.0, 24.0 ],
@@ -3030,7 +3030,7 @@
 
 							}
  ],
-						"originid" : "pat-70"
+						"originid" : "pat-536"
 					}
 ,
 					"patching_rect" : [ 3287.0, 295.0, 33.0, 22.0 ],
@@ -3316,7 +3316,7 @@
 
 											}
  ],
-										"originid" : "pat-76"
+										"originid" : "pat-542"
 									}
 ,
 									"patching_rect" : [ 50.0, 207.471313000000009, 30.0, 24.0 ],
@@ -3431,7 +3431,7 @@
 
 							}
  ],
-						"originid" : "pat-74"
+						"originid" : "pat-540"
 					}
 ,
 					"patching_rect" : [ 3409.0, 295.0, 33.0, 22.0 ],
@@ -3542,7 +3542,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 3287.0, 258.0, 121.0, 22.0 ],
-					"text" : "scale -0.5 0.5 0. 127."
+					"text" : "scale 0.5 -0.5 0. 127."
 				}
 
 			}
@@ -4544,7 +4544,7 @@
 
 											}
  ],
-										"originid" : "pat-80"
+										"originid" : "pat-546"
 									}
 ,
 									"patching_rect" : [ 50.0, 199.0, 149.0, 22.0 ],
@@ -4609,7 +4609,7 @@
 
 											}
  ],
-										"originid" : "pat-82"
+										"originid" : "pat-548"
 									}
 ,
 									"patching_rect" : [ 50.0, 139.0, 113.0, 22.0 ],
@@ -4699,7 +4699,7 @@
 
 							}
  ],
-						"originid" : "pat-78"
+						"originid" : "pat-544"
 					}
 ,
 					"patching_rect" : [ 63.0, 956.0, 41.0, 22.0 ],
@@ -6885,7 +6885,7 @@
 
 											}
  ],
-										"originid" : "pat-86"
+										"originid" : "pat-552"
 									}
 ,
 									"patching_rect" : [ 487.79998779296875, 293.0, 73.0, 22.0 ],
@@ -7197,7 +7197,7 @@
 
 															}
  ],
-														"originid" : "pat-90"
+														"originid" : "pat-556"
 													}
 ,
 													"patching_rect" : [ 232.0, 164.0, 56.0, 20.0 ],
@@ -7415,7 +7415,7 @@
 
 															}
  ],
-														"originid" : "pat-92"
+														"originid" : "pat-558"
 													}
 ,
 													"patching_rect" : [ 176.5, 164.0, 56.0, 20.0 ],
@@ -7779,7 +7779,7 @@
 
 															}
  ],
-														"originid" : "pat-94"
+														"originid" : "pat-560"
 													}
 ,
 													"patching_rect" : [ 213.5, 118.0, 50.0, 20.0 ],
@@ -7930,7 +7930,7 @@
 
 											}
  ],
-										"originid" : "pat-88"
+										"originid" : "pat-554"
 									}
 ,
 									"patching_rect" : [ 551.79998779296875, 336.0, 48.0, 22.0 ],
@@ -8254,7 +8254,7 @@
 
 											}
  ],
-										"originid" : "pat-104"
+										"originid" : "pat-570"
 									}
 ,
 									"patching_rect" : [ 551.79998779296875, 192.0, 63.0, 22.0 ],
@@ -9190,7 +9190,7 @@
 
 											}
  ],
-										"originid" : "pat-106",
+										"originid" : "pat-572",
 										"bgcolor" : [ 0.9, 0.9, 0.9, 1.0 ]
 									}
 ,
@@ -9500,7 +9500,7 @@
 
 											}
  ],
-										"originid" : "pat-108"
+										"originid" : "pat-574"
 									}
 ,
 									"patching_rect" : [ 66.79998779296875, 100.0, 63.0, 22.0 ],
@@ -10424,7 +10424,7 @@
 
 											}
  ],
-										"originid" : "pat-110",
+										"originid" : "pat-576",
 										"bgcolor" : [ 0.9, 0.9, 0.9, 1.0 ]
 									}
 ,
@@ -10954,7 +10954,7 @@
 
 							}
  ],
-						"originid" : "pat-84"
+						"originid" : "pat-550"
 					}
 ,
 					"patching_rect" : [ 56.0, 531.0, 1157.0, 22.0 ],
@@ -11376,7 +11376,7 @@
 
 							}
  ],
-						"originid" : "pat-112"
+						"originid" : "pat-578"
 					}
 ,
 					"patching_rect" : [ 56.0, 617.0, 59.0, 22.0 ],
@@ -14072,7 +14072,7 @@
 
 			}
  ],
-		"originid" : "pat-62",
+		"originid" : "pat-528",
 		"parameters" : 		{
 			"obj-101" : [ "live.gain~[1]", "live.gain~", 0 ],
 			"obj-6" : [ "live.gain~", "live.gain~", 0 ],
