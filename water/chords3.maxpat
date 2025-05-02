@@ -10,10 +10,25 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 153.0, 86.0, 887.0, 780.0 ],
+		"rect" : [ 34.0, 87.0, 1372.0, 779.0 ],
 		"openinpresentation" : 1,
 		"gridsize" : [ 15.0, 15.0 ],
 		"boxes" : [ 			{
+				"box" : 				{
+					"autofit" : 2,
+					"id" : "obj-19",
+					"maxclass" : "fpic",
+					"numinlets" : 1,
+					"numoutlets" : 1,
+					"outlettype" : [ "jit_matrix" ],
+					"patching_rect" : [ 606.0, 569.0, 100.0, 50.0 ],
+					"pic" : "water.png",
+					"presentation" : 1,
+					"presentation_rect" : [ 461.0, 23.0, 841.0, 648.0 ]
+				}
+
+			}
+, 			{
 				"box" : 				{
 					"id" : "obj-18",
 					"maxclass" : "newobj",
@@ -117,7 +132,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 457.0, 1500.0, 150.0, 20.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 616.0, 160.0, 150.0, 20.0 ],
+					"presentation_rect" : [ 245.0, 419.0, 150.0, 20.0 ],
 					"text" : "reverb settings"
 				}
 
@@ -133,7 +148,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 802.5, 1562.0, 150.0, 22.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 616.0, 270.0, 150.0, 22.0 ]
+					"presentation_rect" : [ 245.0, 529.0, 150.0, 22.0 ]
 				}
 
 			}
@@ -148,7 +163,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 650.5, 1562.0, 150.0, 22.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 616.0, 246.0, 150.0, 22.0 ]
+					"presentation_rect" : [ 245.0, 505.0, 150.0, 22.0 ]
 				}
 
 			}
@@ -163,7 +178,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 499.0, 1562.0, 150.0, 22.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 616.0, 223.0, 150.0, 22.0 ]
+					"presentation_rect" : [ 245.0, 482.0, 150.0, 22.0 ]
 				}
 
 			}
@@ -225,7 +240,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 386.0, 1513.0, 40.0, 40.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 616.0, 182.0, 40.0, 40.0 ]
+					"presentation_rect" : [ 245.0, 441.0, 40.0, 40.0 ]
 				}
 
 			}
@@ -651,7 +666,7 @@
 
 							}
  ],
-						"originid" : "pat-3133"
+						"originid" : "pat-56"
 					}
 ,
 					"patching_rect" : [ 946.0, 1291.0, 36.0, 22.0 ],
@@ -983,7 +998,7 @@
 
 							}
  ],
-						"originid" : "pat-3135"
+						"originid" : "pat-58"
 					}
 ,
 					"patching_rect" : [ 821.0, 1291.0, 36.0, 22.0 ],
@@ -1315,7 +1330,7 @@
 
 							}
  ],
-						"originid" : "pat-3137"
+						"originid" : "pat-60"
 					}
 ,
 					"patching_rect" : [ 696.0, 1291.0, 36.0, 22.0 ],
@@ -1647,7 +1662,7 @@
 
 							}
  ],
-						"originid" : "pat-3139"
+						"originid" : "pat-62"
 					}
 ,
 					"patching_rect" : [ 571.0, 1291.0, 36.0, 22.0 ],
@@ -1979,7 +1994,7 @@
 
 							}
  ],
-						"originid" : "pat-3141"
+						"originid" : "pat-64"
 					}
 ,
 					"patching_rect" : [ 446.0, 1291.0, 36.0, 22.0 ],
@@ -2311,7 +2326,7 @@
 
 							}
  ],
-						"originid" : "pat-3143"
+						"originid" : "pat-66"
 					}
 ,
 					"patching_rect" : [ 321.0, 1291.0, 36.0, 22.0 ],
@@ -2643,7 +2658,7 @@
 
 							}
  ],
-						"originid" : "pat-3145"
+						"originid" : "pat-68"
 					}
 ,
 					"patching_rect" : [ 196.0, 1291.0, 36.0, 22.0 ],
@@ -2987,7 +3002,7 @@
 
 							}
  ],
-						"originid" : "pat-3147"
+						"originid" : "pat-70"
 					}
 ,
 					"patching_rect" : [ 71.0, 1291.0, 36.0, 22.0 ],
@@ -4733,7 +4748,7 @@
 					"outlettype" : [ "float" ],
 					"patching_rect" : [ 236.0, 1773.0, 80.0, 13.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 552.0, 299.0, 80.0, 13.0 ]
+					"presentation_rect" : [ 181.0, 558.0, 80.0, 13.0 ]
 				}
 
 			}
@@ -4749,7 +4764,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 244.0, 1571.0, 48.0, 136.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 502.0, 176.0, 48.0, 136.0 ],
+					"presentation_rect" : [ 131.0, 435.0, 48.0, 136.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_longname" : "live.gain~[1]",
@@ -4779,7 +4794,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 71.0, 1581.0, 48.0, 136.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 452.0, 176.0, 48.0, 136.0 ],
+					"presentation_rect" : [ 81.0, 435.0, 48.0, 136.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_longname" : "synths",
@@ -4805,7 +4820,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 71.0, 1780.0, 45.0, 45.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 452.0, 316.0, 45.0, 45.0 ]
+					"presentation_rect" : [ 81.0, 575.0, 45.0, 45.0 ]
 				}
 
 			}
@@ -7367,7 +7382,7 @@
 
 			}
  ],
-		"originid" : "pat-3131",
+		"originid" : "pat-54",
 		"parameters" : 		{
 			"obj-76" : [ "synths", "synth", 0 ],
 			"obj-77" : [ "live.gain~[1]", "dry", 0 ],
@@ -7383,7 +7398,14 @@
 			"inherited_shortname" : 1
 		}
 ,
-		"dependency_cache" : [  ],
+		"dependency_cache" : [ 			{
+				"name" : "water.png",
+				"bootpath" : "~/Documents/GitHub/S25-Kit/water",
+				"patcherrelativepath" : ".",
+				"type" : "PNG",
+				"implicit" : 1
+			}
+ ],
 		"autosave" : 0
 	}
 
