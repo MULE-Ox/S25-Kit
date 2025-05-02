@@ -15,6 +15,18 @@
 		"gridsize" : [ 15.0, 15.0 ],
 		"boxes" : [ 			{
 				"box" : 				{
+					"id" : "obj-249",
+					"linecount" : 4,
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 1312.0, 3073.0, 151.0, 60.0 ],
+					"text" : "JTS_30.png, JTS_31.png, JTS_32.png, JTS_33.png, JTS_34.png, JTS_35.png, JTS_36.png, JTS_37.png"
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"id" : "obj-385",
 					"maxclass" : "newobj",
 					"numinlets" : 3,
@@ -81,7 +93,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 3068.0, 2368.0, 50.0, 22.0 ],
-					"text" : "1"
+					"text" : "0"
 				}
 
 			}
@@ -113,11 +125,11 @@
 				"box" : 				{
 					"id" : "obj-365",
 					"maxclass" : "newobj",
-					"numinlets" : 8,
-					"numoutlets" : 8,
-					"outlettype" : [ "bang", "bang", "bang", "bang", "bang", "bang", "bang", "" ],
-					"patching_rect" : [ 3099.130000000000109, 2294.789999999999964, 141.0, 22.0 ],
-					"text" : "sel 27 28 29 30 31 32 33"
+					"numinlets" : 10,
+					"numoutlets" : 10,
+					"outlettype" : [ "bang", "bang", "bang", "bang", "bang", "bang", "bang", "bang", "bang", "" ],
+					"patching_rect" : [ 3068.0, 2154.0, 174.0, 22.0 ],
+					"text" : "sel 27 28 29 30 31 32 33 35 36"
 				}
 
 			}
@@ -3186,7 +3198,7 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-166",
-					"items" : [ "JTS_1.png", ",", "JTS_2.png", ",", "JTS_3.png", ",", "JTS_4.png", ",", "JTS_5.png", ",", "JTS_6.png", ",", "JTS_7.png", ",", "JTS_8.png", ",", "JTS_9.png", ",", "JTS_10.png", ",", "JTS_11.png", ",", "JTS_12.png", ",", "JTS_13.png", ",", "JTS_14.png", ",", "JTS_15.png", ",", "JTS_16.png", ",", "JTS_17.png", ",", "JTS_18.png", ",", "JTS_19.png", ",", "JTS_20.png", ",", "JTS_21.png", ",", "JTS_22.png", ",", "JTS_23.png", ",", "JTS_24.png", ",", "JTS_25.png", ",", "JTS_26.png", ",", "JTS_27.png", ",", "JTS_28.png", ",", "JTS_29.png" ],
+					"items" : [ "JTS_1.png", ",", "JTS_2.png", ",", "JTS_3.png", ",", "JTS_4.png", ",", "JTS_5.png", ",", "JTS_6.png", ",", "JTS_7.png", ",", "JTS_8.png", ",", "JTS_9.png", ",", "JTS_10.png", ",", "JTS_11.png", ",", "JTS_12.png", ",", "JTS_13.png", ",", "JTS_14.png", ",", "JTS_15.png", ",", "JTS_16.png", ",", "JTS_17.png", ",", "JTS_18.png", ",", "JTS_19.png", ",", "JTS_20.png", ",", "JTS_21.png", ",", "JTS_22.png", ",", "JTS_23.png", ",", "JTS_24.png", ",", "JTS_25.png", ",", "JTS_26.png", ",", "JTS_27.png", ",", "JTS_28.png", ",", "JTS_29.png", ",", "JTS_30.png", ",", "JTS_31.png", ",", "JTS_32.png", ",", "JTS_33.png", ",", "JTS_34.png", ",", "JTS_35.png", ",", "JTS_36.png", ",", "JTS_37.png" ],
 					"maxclass" : "umenu",
 					"numinlets" : 1,
 					"numoutlets" : 3,
@@ -8597,7 +8609,23 @@
 				"patchline" : 				{
 					"destination" : [ "obj-350", 0 ],
 					"order" : 0,
+					"source" : [ "obj-365", 8 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-350", 0 ],
+					"order" : 0,
 					"source" : [ "obj-365", 6 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-353", 0 ],
+					"order" : 0,
+					"source" : [ "obj-365", 7 ]
 				}
 
 			}
@@ -8646,6 +8674,14 @@
 					"destination" : [ "obj-353", 0 ],
 					"order" : 0,
 					"source" : [ "obj-365", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-369", 0 ],
+					"order" : 1,
+					"source" : [ "obj-365", 7 ]
 				}
 
 			}
@@ -8701,7 +8737,23 @@
 				"patchline" : 				{
 					"destination" : [ "obj-375", 0 ],
 					"order" : 1,
+					"source" : [ "obj-365", 8 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-375", 0 ],
+					"order" : 1,
 					"source" : [ "obj-365", 6 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-382", 0 ],
+					"order" : 2,
+					"source" : [ "obj-365", 7 ]
 				}
 
 			}
@@ -8750,6 +8802,14 @@
 					"destination" : [ "obj-382", 0 ],
 					"order" : 2,
 					"source" : [ "obj-365", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-384", 0 ],
+					"order" : 2,
+					"source" : [ "obj-365", 8 ]
 				}
 
 			}
