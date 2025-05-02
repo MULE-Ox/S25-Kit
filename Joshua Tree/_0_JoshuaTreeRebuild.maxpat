@@ -337,7 +337,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 2197.0, 2423.0, 315.0, 22.0 ],
-					"text" : "text"
+					"text" : "text \"STOP SOUND AFTER AT LEAST 10 SECONDS\""
 				}
 
 			}
@@ -8257,6 +8257,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-107", 1 ],
+					"order" : 0,
 					"source" : [ "obj-329", 1 ]
 				}
 
@@ -8264,6 +8265,23 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-107", 0 ],
+					"order" : 1,
+					"source" : [ "obj-329", 1 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-107", 1 ],
+					"order" : 0,
+					"source" : [ "obj-329", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-107", 0 ],
+					"order" : 1,
 					"source" : [ "obj-329", 0 ]
 				}
 
