@@ -73,7 +73,7 @@ spork ~ clock();
 
 // create our OSC sender
 OscSend xmit;
-xmit.setHost("192.168.0.2", 9001);
+xmit.setHost("127.0.0.1", 9001);
 
 // time-loop
 while( true )
