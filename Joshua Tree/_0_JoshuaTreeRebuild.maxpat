@@ -15,6 +15,18 @@
 		"gridsize" : [ 15.0, 15.0 ],
 		"boxes" : [ 			{
 				"box" : 				{
+					"id" : "obj-176",
+					"linecount" : 2,
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 773.0, 1114.0, 150.0, 33.0 ],
+					"text" : ", JTS_28.png, JTS_29.png"
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"id" : "obj-142",
 					"maxclass" : "message",
 					"numinlets" : 2,
@@ -2258,7 +2270,7 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-166",
-					"items" : [ "JTS_1.png", ",", "JTS_2.png", ",", "JTS_3.png", ",", "JTS_4.png", ",", "JTS_5.png", ",", "JTS_6.png", ",", "JTS_7.png", ",", "JTS_8.png", ",", "JTS_9.png", ",", "JTS_10.png", ",", "JTS_11.png", ",", "JTS_12.png", ",", "JTS_13.png", ",", "JTS_14.png", ",", "JTS_15.png", ",", "JTS_16.png", ",", "JTS_17.png", ",", "JTS_18.png", ",", "JTS_19.png", ",", "JTS_20.png", ",", "JTS_21.png", ",", "JTS_22.png", ",", "JTS_23.png", ",", "JTS_24.png", ",", "JTS_25.png", ",", "JTS_26.png", ",", "JTS_27.png" ],
+					"items" : [ "JTS_1.png", ",", "JTS_2.png", ",", "JTS_3.png", ",", "JTS_4.png", ",", "JTS_5.png", ",", "JTS_6.png", ",", "JTS_7.png", ",", "JTS_8.png", ",", "JTS_9.png", ",", "JTS_10.png", ",", "JTS_11.png", ",", "JTS_12.png", ",", "JTS_13.png", ",", "JTS_14.png", ",", "JTS_15.png", ",", "JTS_16.png", ",", "JTS_17.png", ",", "JTS_18.png", ",", "JTS_19.png", ",", "JTS_20.png", ",", "JTS_21.png", ",", "JTS_22.png", ",", "JTS_23.png", ",", "JTS_24.png", ",", "JTS_25.png", ",", "JTS_26.png", ",", "JTS_27.png", ",", "JTS_28.png", ",", "JTS_29.png" ],
 					"maxclass" : "umenu",
 					"numinlets" : 1,
 					"numoutlets" : 3,
