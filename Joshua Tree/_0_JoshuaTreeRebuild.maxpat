@@ -640,18 +640,6 @@
 			}
 , 			{
 				"box" : 				{
-					"id" : "obj-265",
-					"maxclass" : "message",
-					"numinlets" : 2,
-					"numoutlets" : 1,
-					"outlettype" : [ "" ],
-					"patching_rect" : [ 531.0, 1917.0, 155.0, 22.0 ],
-					"text" : "dim 1440 45"
-				}
-
-			}
-, 			{
-				"box" : 				{
 					"id" : "obj-259",
 					"maxclass" : "newobj",
 					"numinlets" : 2,
@@ -1011,7 +999,7 @@
 
 							}
  ],
-						"originid" : "pat-704"
+						"originid" : "pat-12"
 					}
 ,
 					"patching_rect" : [ 91.859999999999999, 1983.0, 45.0, 22.0 ],
@@ -2652,7 +2640,7 @@
 
 							}
  ],
-						"originid" : "pat-12"
+						"originid" : "pat-20"
 					}
 ,
 					"patching_rect" : [ 3076.0, 638.0, 59.0, 22.0 ],
@@ -3014,7 +3002,7 @@
 
 							}
  ],
-						"originid" : "pat-14"
+						"originid" : "pat-22"
 					}
 ,
 					"patching_rect" : [ 2889.0, 741.0, 102.0, 22.0 ],
@@ -3783,7 +3771,7 @@
 
 							}
  ],
-						"originid" : "pat-20"
+						"originid" : "pat-28"
 					}
 ,
 					"patching_rect" : [ 2438.0, 666.0, 104.0, 23.0 ],
@@ -4112,7 +4100,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
-					"patching_rect" : [ 519.0, 15.0, 58.0, 22.0 ],
+					"patching_rect" : [ 519.0, -294.0, 58.0, 22.0 ],
 					"text" : "loadbang"
 				}
 
@@ -4826,7 +4814,7 @@
 
 							}
  ],
-						"originid" : "pat-26"
+						"originid" : "pat-30"
 					}
 ,
 					"patching_rect" : [ 419.5, 514.0, 40.0, 23.0 ],
@@ -4842,7 +4830,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "jit_matrix", "" ],
-					"patching_rect" : [ 26.0, 581.0, 292.0, 227.0 ],
+					"patching_rect" : [ 26.0, 587.0, 292.0, 227.0 ],
 					"sync" : 1
 				}
 
@@ -6630,8 +6618,16 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-179", 0 ],
+					"order" : 3,
+					"source" : [ "obj-34", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-32", 0 ],
-					"order" : 1,
+					"order" : 2,
 					"source" : [ "obj-34", 0 ]
 				}
 
@@ -6639,6 +6635,14 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-33", 0 ],
+					"order" : 1,
+					"source" : [ "obj-34", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-72", 0 ],
 					"order" : 0,
 					"source" : [ "obj-34", 0 ]
 				}
@@ -7052,6 +7056,14 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-137", 0 ],
+					"order" : 3,
+					"source" : [ "obj-49", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-144", 0 ],
 					"order" : 0,
 					"source" : [ "obj-49", 0 ]
@@ -7061,7 +7073,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-351", 0 ],
-					"order" : 6,
+					"order" : 7,
 					"source" : [ "obj-49", 0 ]
 				}
 
@@ -7069,14 +7081,6 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-370", 0 ],
-					"order" : 4,
-					"source" : [ "obj-49", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-54", 0 ],
 					"order" : 5,
 					"source" : [ "obj-49", 0 ]
 				}
@@ -7084,8 +7088,16 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-54", 0 ],
+					"order" : 6,
+					"source" : [ "obj-49", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-97", 0 ],
-					"order" : 3,
+					"order" : 4,
 					"source" : [ "obj-49", 0 ]
 				}
 
@@ -7668,14 +7680,14 @@
 ,
 		"dependency_cache" : [ 			{
 				"name" : "RUNGLE.maxpat",
-				"bootpath" : "~/MaxThings/joshua",
+				"bootpath" : "~/GitHub/S25-Kit/Joshua Tree",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "drivers.maxpat",
-				"bootpath" : "~/MaxThings/joshua",
+				"bootpath" : "~/GitHub/S25-Kit/Joshua Tree",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
@@ -7683,7 +7695,7 @@
 , 			{
 				"name" : "fav-max.js",
 				"bootpath" : "~/Documents/Max 9/Packages/FluidCorpusManipulation/jsui",
-				"patcherrelativepath" : "../../Documents/Max 9/Packages/FluidCorpusManipulation/jsui",
+				"patcherrelativepath" : "../../../Documents/Max 9/Packages/FluidCorpusManipulation/jsui",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
@@ -7702,21 +7714,21 @@
 , 			{
 				"name" : "fluid.waveform~.js",
 				"bootpath" : "~/Documents/Max 9/Packages/FluidCorpusManipulation/jsui",
-				"patcherrelativepath" : "../../Documents/Max 9/Packages/FluidCorpusManipulation/jsui",
+				"patcherrelativepath" : "../../../Documents/Max 9/Packages/FluidCorpusManipulation/jsui",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "komp-ballistics.maxpat",
 				"bootpath" : "~/Library/Application Support/Cycling '74/Max 9/Examples/effects/kompressor/lib",
-				"patcherrelativepath" : "../../Library/Application Support/Cycling '74/Max 9/Examples/effects/kompressor/lib",
+				"patcherrelativepath" : "../../../Library/Application Support/Cycling '74/Max 9/Examples/effects/kompressor/lib",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "komp.maxpat",
 				"bootpath" : "~/Library/Application Support/Cycling '74/Max 9/Examples/effects/kompressor/lib",
-				"patcherrelativepath" : "../../Library/Application Support/Cycling '74/Max 9/Examples/effects/kompressor/lib",
+				"patcherrelativepath" : "../../../Library/Application Support/Cycling '74/Max 9/Examples/effects/kompressor/lib",
 				"type" : "JSON",
 				"implicit" : 1
 			}
